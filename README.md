@@ -2,7 +2,7 @@
 This is the code repository for [Building Android RESTful Client Apps [Video]](https://www.packtpub.com/application-development/building-android-restful-client-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781788995863), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Many successful apps such as Spotify, Google, and PayPal consume data from the internet and upload content. These apps mostly use RESTful APIs to communicate with a server through the HTTP protocol.
-
+##Nice tutorial for beginner and experienced
 In this course, you’ll learn to create a Tinder-like client application in Android using Java libraries such as Retrofit and Gson to make sure your code is clean and testable. Moving on, you’ll learn to read and create JSON and use libraries to make your life easy. Then we’ll show you how to deal with the common errors that occur with REST APIs and how to use interceptors to intercept a request and log data and errors.
 
 Finally, you’ll see the MVP architecture and implement its main features to create clean and testable code. By the end of this course, you’ll be able to build efficient Android applications that use RESTful services.
